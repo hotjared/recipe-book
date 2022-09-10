@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(226, 242, 255);
+    font-family: sans-serif;
+}
+
+.button1 {
+    background-color: blueviolet;
+}
+
+.button2 {
+    background-color: yellow;
+}
+
+.button3 {
+    background-color: brown;
+}
